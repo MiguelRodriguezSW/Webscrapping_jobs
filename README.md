@@ -15,9 +15,9 @@ for other types of information.
 
 ## Dependencies
 
--beautifulsoup4
+- beautifulsoup4
 
--requests
+- requests
 
 ## Project Setup
 
